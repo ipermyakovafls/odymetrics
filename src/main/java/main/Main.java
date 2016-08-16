@@ -3,7 +3,7 @@ package main;
 import java.util.*;
 
 /**
- * Created by FLisochenko on 13.07.2016.
+ * Created by FLisochenko on 13.07.2016.tatata
  */
 public class Main {
 
@@ -101,6 +101,7 @@ public class Main {
         Log("-u User name");
         Log("-? --help Print this help list");
         Log("--debug Toggle debug mode");
+		//from iperm
     }
 
     public static void main(String[] arg) throws Exception {
